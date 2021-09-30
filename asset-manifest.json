@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://lucky0011198.github.io/csb-4vwtj/static/css/main.cc4e53c1.chunk.css",
+    "main.js": "https://lucky0011198.github.io/csb-4vwtj/static/js/main.8b522309.chunk.js",
+    "main.js.map": "https://lucky0011198.github.io/csb-4vwtj/static/js/main.8b522309.chunk.js.map",
+    "runtime-main.js": "https://lucky0011198.github.io/csb-4vwtj/static/js/runtime-main.327ed406.js",
+    "runtime-main.js.map": "https://lucky0011198.github.io/csb-4vwtj/static/js/runtime-main.327ed406.js.map",
+    "static/js/2.0502f128.chunk.js": "https://lucky0011198.github.io/csb-4vwtj/static/js/2.0502f128.chunk.js",
+    "static/js/2.0502f128.chunk.js.map": "https://lucky0011198.github.io/csb-4vwtj/static/js/2.0502f128.chunk.js.map",
+    "static/js/3.c0e385d4.chunk.js": "https://lucky0011198.github.io/csb-4vwtj/static/js/3.c0e385d4.chunk.js",
+    "static/js/3.c0e385d4.chunk.js.map": "https://lucky0011198.github.io/csb-4vwtj/static/js/3.c0e385d4.chunk.js.map",
+    "index.html": "https://lucky0011198.github.io/csb-4vwtj/index.html",
+    "static/css/main.cc4e53c1.chunk.css.map": "https://lucky0011198.github.io/csb-4vwtj/static/css/main.cc4e53c1.chunk.css.map",
+    "static/js/2.0502f128.chunk.js.LICENSE.txt": "https://lucky0011198.github.io/csb-4vwtj/static/js/2.0502f128.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "https://lucky0011198.github.io/csb-4vwtj/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.327ed406.js",
+    "static/js/2.0502f128.chunk.js",
+    "static/css/main.cc4e53c1.chunk.css",
+    "static/js/main.8b522309.chunk.js"
+  ]
+}
